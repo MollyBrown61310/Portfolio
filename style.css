@@ -20,10 +20,10 @@ html {
 
 p {
     color: rgb(85, 85, 85);
-
+}
     a,
     .btn {
-        transition: all 300ms ease;
+     transition: all 300ms ease;
     }
 
 nav, 
@@ -37,5 +37,9 @@ nav {
     height: 17vh;
 }
 
-
+.nav-links {
+    gap: 2rem;
+    list-style: none;
+    font-size: 1.5rem;
 }
+
