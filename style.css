@@ -13,3 +13,23 @@
 body {
     font-family:"Cascadia Code", sans-serif; 
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: rgb(85, 85, 85);
+
+    a,
+    .btn {
+        transition: all 300ms ease;
+    }
+
+nav, 
+.nav-links {
+    display: flex;
+}
+
+
+}
