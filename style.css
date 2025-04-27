@@ -199,3 +199,13 @@ section {
     cursor: pointer;
     height: 2rem;
 }
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.btn {
+    
+}
