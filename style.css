@@ -339,3 +339,6 @@ article .icon {
     cursor: default;
 }
 
+#projects {
+    position: relative;
+}
